@@ -2,7 +2,7 @@ name: Enable Auto Merge
 on:
   pull_request_target:
     branches:
-      - master
+      - lwc-user-menu
 
 jobs:
   auto-merge:
