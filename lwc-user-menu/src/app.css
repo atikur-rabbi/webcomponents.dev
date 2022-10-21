@@ -7,7 +7,7 @@ p {
 }
 .app {
     background-color: #0a0a0a;
-    color: white;
+    color: yellow;
     height: 100vh;
     overflow: scroll;
 }
