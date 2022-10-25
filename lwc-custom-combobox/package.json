@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/atikur-rabbi.lwc-l9830hid",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Keft3W6lcvCNxHtWsRFj --open"
+  }
+}
